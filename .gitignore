@@ -1,0 +1,3 @@
+*.py[co]
+gui/*.py
+!gui/__init__.py
